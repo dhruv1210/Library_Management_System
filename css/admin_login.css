@@ -1,8 +1,21 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
+
+body{
+  
+  background-image:url("../images/admin_logo\(2\).png");
+  background-size: cover;
+  background-position: center;
+    background-repeat: no-repeat;
+
+  
+  
+}
+
 #portal{
     text-align: center;
     font-size:300%;
+    color: white;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 

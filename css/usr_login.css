@@ -1,5 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
+body{
+  
+  background-image: url("../images/user_login.png.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;  
+  
+}
 #portal{
     text-align: center;
     font-size:300%;
